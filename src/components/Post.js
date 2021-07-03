@@ -23,6 +23,7 @@ const Post = (props) => {
                 </Grid>
             </Grid>
         </React.Fragment>    
+        
     );
 }
 
